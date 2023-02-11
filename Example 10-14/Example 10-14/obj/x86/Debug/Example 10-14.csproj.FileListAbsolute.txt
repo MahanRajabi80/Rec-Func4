@@ -1,0 +1,18 @@
+C:\Users\M-H Computer\Desktop\Example 10-14\Example 10-14\bin\Debug\Example 10-14.exe
+C:\Users\M-H Computer\Desktop\Example 10-14\Example 10-14\bin\Debug\Example 10-14.pdb
+C:\Users\M-H Computer\Desktop\Example 10-14\Example 10-14\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\M-H Computer\Desktop\Example 10-14\Example 10-14\obj\x86\Debug\Example_10_14.Form1.resources
+C:\Users\M-H Computer\Desktop\Example 10-14\Example 10-14\obj\x86\Debug\Example_10_14.Properties.Resources.resources
+C:\Users\M-H Computer\Desktop\Example 10-14\Example 10-14\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\M-H Computer\Desktop\Example 10-14\Example 10-14\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\M-H Computer\Desktop\Example 10-14\Example 10-14\obj\x86\Debug\Example 10-14.exe
+C:\Users\M-H Computer\Desktop\Example 10-14\Example 10-14\obj\x86\Debug\Example 10-14.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part10\Example 10-14\Example 10-14\bin\Debug\Example 10-14.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part10\Example 10-14\Example 10-14\bin\Debug\Example 10-14.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part10\Example 10-14\Example 10-14\obj\x86\Debug\Example 10-14.csprojAssemblyReference.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part10\Example 10-14\Example 10-14\obj\x86\Debug\Example_10_14.Form1.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part10\Example 10-14\Example 10-14\obj\x86\Debug\Example_10_14.Properties.Resources.resources
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part10\Example 10-14\Example 10-14\obj\x86\Debug\Example 10-14.csproj.GenerateResource.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part10\Example 10-14\Example 10-14\obj\x86\Debug\Example 10-14.csproj.CoreCompileInputs.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part10\Example 10-14\Example 10-14\obj\x86\Debug\Example 10-14.exe
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part10\Example 10-14\Example 10-14\obj\x86\Debug\Example 10-14.pdb
